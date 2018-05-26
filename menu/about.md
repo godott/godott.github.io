@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yunong Shi
+title: About
 ---
 
 I am a 5th year graduate student, in the department of Physics, at the University of Chicago. My interests lie in 
