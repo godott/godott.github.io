@@ -13,12 +13,11 @@ title: Photos
 
 Photos I take when I travel.
 
-![m1]
-![mi1]
-![mi2]
-![mi5]
-![xj1]
-![san1]
-![isaac]
 ![aurora]
+2013, Alaska, USA
+![mi1]
+![mi5]
+2014, Michigan, USA
+![xj1]
+2015, Xinjiang, China
 
