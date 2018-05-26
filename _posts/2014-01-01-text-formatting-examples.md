@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Text Formatting Examples haha"
+title: "Text Formatting Examples"
 author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
