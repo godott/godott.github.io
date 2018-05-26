@@ -3,4 +3,4 @@ layout: page
 title: Photos
 ---
 
-My photos
+I like taking photos when I have time.
