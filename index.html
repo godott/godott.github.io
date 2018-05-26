@@ -18,11 +18,20 @@ I am a 5th year graduate student, in the department of Physics, at the Universit
   <li> Quantum languages.</li>
 </ul> 
 
-I contributed to ScaffCC, a industrial level quantum compiler capable of compiling quantum circuits of millions of quantum gates. I designed and implemented the circuit optimization pass in ScaffCC and wrote the QAOA(Quantum Approximate Optimization Algorithm) library. 
-
-In summer 2017, I was the WJ Cody fellow in Argonne National Laborotary, participating in PROVESA project, with Professor Paul Hovland. I used formal verification and model checking to faciliate the safe migration of large numerical softwares to new super computing architecture. 
-
-In summer 2018, I will be at IBM as part of the QISE-NET triplet, working with Andrew W. Cross on quantum compilation.
 </p>
 
+<p>
+I contributed to ScaffCC, a industrial level quantum compiler capable of compiling quantum circuits of millions of quantum gates. I designed and implemented the circuit optimization pass in ScaffCC and wrote the QAOA(Quantum Approximate Optimization Algorithm) library. 
+</p>
+
+
+<p>
+In summer 2017, I was the WJ Cody fellow in Argonne National Laborotary, participating in PROVESA project, with Professor Paul Hovland. I used formal verification and model checking to faciliate the safe migration of large numerical softwares to new super computing architecture. 
+</p>
+
+
+<p>
+In summer 2018, I will be at IBM as part of the QISE-NET triplet, working with Andrew W. Cross on quantum compilation.
+
+</p>
 
