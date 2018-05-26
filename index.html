@@ -8,10 +8,11 @@ img {
     max-width: 50%;
     max-height: 100%;
 }
-</style>
 .profile{
-    
+    height: 300px;
+    width:  280px; 
     }
+</style>
 <p>
 <div class="profile">
 <img src="../assets/img/profile.JPG" alt="profile">
