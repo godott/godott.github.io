@@ -31,3 +31,6 @@ author:              'Yunong Shi'
 # Pagination
 paginate: 5
 paginate_path: "/menu/page:num/"
+
+#Disqus 
+shortname: godott
