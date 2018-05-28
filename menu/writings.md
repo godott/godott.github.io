@@ -2,10 +2,6 @@
 layout: page
 title: Writings
 ---
-
-Why doesn't it work??
-
-Why doesn't it update?
 {% for post in paginator.posts %}
 <div class="posts">
   <h1>
