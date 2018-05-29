@@ -18,6 +18,7 @@ Photos I take when I travel.
 ![mi1]
 ![mi5]
 2014, Michigan, USA
+
 ![xj1]
 2015, Xinjiang, China
 
