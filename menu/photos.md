@@ -9,6 +9,7 @@ title: Photos
 [san1]: ../assets/img/san1.jpg
 [isaac]: ../assets/img/isaac.JPG
 [aurora]: ../assets/img/aurora.JPG
+[pshor]: ../assets/img/pshor.jpg
 
 
 Photos I take when I travel.
@@ -21,4 +22,8 @@ Photos I take when I travel.
 
 ![xj1]
 2015, Xinjiang, China
+![isaac]
+2016, Isaac, my son, Chicago, USA
+![pshor]
+2018, Peter Shor, Los Angeles, USA
 
