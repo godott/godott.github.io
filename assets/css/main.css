@@ -246,6 +246,20 @@ hr {
   padding-right: 10px;
 }
 
+.writings_menu {
+  padding-top: 0.5rem;
+  display: block;
+}
+
+.writings_menu-content {
+  float: left;
+}
+
+.writings_menu-content a {
+  color: #000000;
+  font-size: 2rem;
+  padding-right: 10px;
+}
 .social-icons {
   float: right;
 }

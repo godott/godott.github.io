@@ -11,6 +11,10 @@ menu:
 - {name: 'Writings', path: 'menu', url: 'index.html'}
 - {name: 'Photos', path: 'menu', url: 'photos.html'}
 
+writings_menu:
+- {name: 'Chronological order', path: 'menu/writings', url: 'index.html'}
+- {name: 'By topic', path: 'menu/writings', url: 'catagory.html'}
+
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'github', link: 'https://www.github.com/godott'}
