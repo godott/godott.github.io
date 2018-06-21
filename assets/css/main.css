@@ -253,12 +253,13 @@ hr {
 
 .writings_menu-content {
   float: left;
+  padding-top: -40px;
 }
 
 .writings_menu-content a {
   color: #000000;
-  font-size: 1.1rem;
-  padding-right: 80px;
+  font-size: 1.2rem;
+  padding-right: 30px;
   text-decoration: none;
 }
 .social-icons {
