@@ -12,8 +12,8 @@ menu:
 - {name: 'Photos', path: 'menu', url: 'photos.html'}
 
 writings_menu:
-- {name: 'chronological order', path: 'menu/writings_menu', url: 'index.html'}
-- {name: 'by topics', path: 'menu/writings_menu', url: 'category.html'}
+- {name: 'chronological', path: 'menu/writings_menu', url: 'index.html'}
+- {name: 'collections`', path: 'menu/writings_menu', url: 'category.html'}
 
 my_categories:
 - {name: 'Quantum compilation', path: 'menu/writings_menu/category', url: 'qcompilation.html', image: 'qcompilation.jpg'}
