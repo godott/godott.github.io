@@ -247,29 +247,27 @@ hr {
 }
 
 .writings_menu {
-  font-family: Cinzel;
-  padding-top: -30rem;
+  padding-top: -30px;
+  padding-bottom: 30px;
   display: block;
 }
 
 .writings_menu-content {
-  font-family: Cinzel;
   float: left;
+  padding-top: -30px;
+  padding-bottom: 30px;
 }
 
 .writings_menu-content a {
   color: #999;
-  font-family: Cinzel;
   font-size: 1.6rem;
-  padding-right: 20px;
-  text-decoration: none;
+  padding-right: 30px;
 }
 
 .writings_menu-content a:hover {
-  color: #f39c12;
-  font-family: Cinzel;
+  color: #000000;
   font-size: 1.6rem;
-  padding-right: 20px;
+  padding-right: 30px;
 }
 .social-icons {
   float: right;
