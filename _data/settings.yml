@@ -13,7 +13,7 @@ menu:
 
 writings_menu:
 - {name: 'chronological', path: 'menu/writings_menu', url: 'index.html'}
-- {name: 'collections`', path: 'menu/writings_menu', url: 'category.html'}
+- {name: 'collections', path: 'menu/writings_menu', url: 'category.html'}
 
 my_categories:
 - {name: 'Quantum compilation', path: 'menu/writings_menu/category', url: 'qcompilation.html', image: 'qcompilation.jpg'}
