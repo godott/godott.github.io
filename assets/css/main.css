@@ -255,11 +255,17 @@ hr {
   float: left;
 }
 
-.writings_menu-content a {
+.writings_menu-content a:link {
+  color: #000000;
+  font-size: 1.4rem;
+  padding-right: 20px;
+  text-decoration: none;
+}
+
+.writings_menu-content a:hover {
   color: #000000;
   font-size: 1.2rem;
   padding-right: 20px;
-  text-decoration: none;
 }
 .social-icons {
   float: right;
