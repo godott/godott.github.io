@@ -8,11 +8,11 @@ disqus:
 menu:
 - {name: 'About', path: 'menu', url: 'about.html'}
 - {name: 'Research', path: 'menu', url: 'research.html'}
-- {name: 'Writings', path: 'menu', url: 'index.html'}
+- {name: 'Writings', path: 'menu/writings_menu', url: 'index.html'}
 - {name: 'Photos', path: 'menu', url: 'photos.html'}
 
 writings_menu:
-- {name: 'Chronological order', path: 'menu/writings', url: 'index.html'}
+- {name: 'By time', path: 'menu/writings', url: 'index.html'}
 - {name: 'By topic', path: 'menu/writings', url: 'catagory.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
