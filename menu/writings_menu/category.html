@@ -1,0 +1,17 @@
+---
+layout: page
+---
+{% include writings_menu.html %}
+
+{% for item in site.data.settings.my_categories %}
+<div class="posts">
+  <h1>
+    <a href="{{ site.github.url }}/{{ item.path }}/{{ item.url }}">{{ item.name }}</a>
+  </h1>
+  {% if item.image %}
+  <div class="thumbnail-container">
+      <a href="{{ site.github.url }}{{ item.path }}/{{ item.url }}"><img src="{{ site.github.url }}/assets/img/{{ item.image }}"></a>
+  </div>
+  {% endif %}
+</div>
+{% endfor %}

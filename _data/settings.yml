@@ -12,8 +12,12 @@ menu:
 - {name: 'Photos', path: 'menu', url: 'photos.html'}
 
 writings_menu:
-- {name: 'By time', path: 'menu/writings', url: 'index.html'}
-- {name: 'By topic', path: 'menu/writings', url: 'catagory.html'}
+- {name: 'By time', path: 'menu/writings_menu', url: 'index.html'}
+- {name: 'By topic', path: 'menu/writings_menu', url: 'category.html'}
+
+my_categories:
+- {name: 'Quantum compilation', path: 'menu/writings_menu/category', url:'qcompilation.html', image: 'qcompilation.jpg'}
+- {name: 'Circuit QED', path: 'menu/writings_menu/category', url:'cqed.html', image: 'qc.jpg'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:

@@ -256,7 +256,7 @@ hr {
 }
 
 .writings_menu-content a:link {
-  color: #000000;
+  color: #999;
   font-size: 1.4rem;
   padding-right: 20px;
   text-decoration: none;
@@ -264,7 +264,7 @@ hr {
 
 .writings_menu-content a:hover {
   color: #000000;
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   padding-right: 20px;
 }
 .social-icons {
