@@ -23,7 +23,7 @@ I am a 6th year graduate student, in the department of Physics, at the Universit
 </p>
 
 <p>
-In the year 2018-2019, I spent one year at IBM Yorktown Heights as part of the <a href="https://qisenet.uchicago.edu">QISE-NET</a> triplet, working with Andrew W. Cross on quantum compilation, quantum verification in the Qiskit framework and on designing protocols for preparing bosonic qubit codes in the cavity.
+In the year 2018-2019, I spent one year at IBM Yorktown Heights as part of the <a href="https://qisenet.uchicago.edu">QISE-NET</a> triplet, collaborating with Andrew W. Cross, Christopher Chamberland and Ali Javadi-Abhari on quantum compilation, quantum verification in the Qiskit framework and on designing protocols for preparing bosonic qubit codes in the cavity.
 </p>
 
 <p>
@@ -44,9 +44,19 @@ In summer 2017, I was the <a href="http://www.mcs.anl.gov/career-opportunities/w
           <p>[<a href="https://arxiv.org/abs/1908.08963">arXiv</a>]
             <a href="./publications/1908.08963.pdf">
               Contract-based Verification of a Realistic Quantum Compiler.
-            </a></br>
-            Y. Shi, X. Li, R. Tao, A. Javadi-Abhari, A. Cross, F. Chong, R. Gu
+            </a><br>
+            Yunong Shi, X. Li, R. Tao, A. Javadi-Abhari, A. Cross, F. Chong, R. Gu
   	    </li>
       </ul>
 	  </div>
 
+	    <h4>Papers (first author)</h4>
+	    <ul>
+        <li>
+          <p> <a href="https://arxiv.org/abs/1902.01474">Optimized Compilation of Aggregated Instructions for Realistic Quantum Computers</a>
+            </a>
+            Yunong Shi, Nelson Leung, Pranav Gokhale, Zane Rossi, David I. Schuster, Henry Hoffman, and Frederic T. Chong.
+            <strong>International Symposium on Architectural Support for Programming Languages and Operating Systems</strong>. April 2019. Providence, RI.
+  	    </li>
+      </ul>
+	  </div>
