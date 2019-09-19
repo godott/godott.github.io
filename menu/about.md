@@ -5,7 +5,7 @@ title: About
 <style>
 img {	
 	float: right;	
-    max-width: 50%;
+    max-width: 40%;
     max-height: 100%;
 }
 li {
