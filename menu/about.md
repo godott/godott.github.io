@@ -44,7 +44,7 @@ In summer 2017, I was the <a href="http://www.mcs.anl.gov/career-opportunities/w
           <p>[<a href="https://arxiv.org/abs/1908.08963">arXiv</a>]
             <a href="./publications/1908.08963.pdf">
               Contract-based Verification of a Realistic Quantum Compiler.
-            </a><br>
+            </a>
             Yunong Shi, X. Li, R. Tao, A. Javadi-Abhari, A. Cross, F. Chong, R. Gu
   	    </li>
         </ul>
