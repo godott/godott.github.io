@@ -38,7 +38,7 @@ In summer 2017, I was the <a href="http://www.mcs.anl.gov/career-opportunities/w
 # Publications
 
 <div id="box_black">
-	    <h4>Manuscripts</h4>
+	    <h2>Manuscripts</h2>
 	    <ul>
             <li> <a href="./publications/1908.08963.pdf">
               Contract-based Verification of a Realistic Quantum Compiler. </a> Yunong Shi, Xupeng Li, Runzhou Tao, Ali Javadi-Abhari, Andrew W. Cross, Fred T. Chong, Ronghui Gu
@@ -47,7 +47,7 @@ In summer 2017, I was the <a href="http://www.mcs.anl.gov/career-opportunities/w
 </div>
 
 <div id="box_black">
-	    <h4>Papers (first author)</h4>
+	    <h2>Papers (first author)</h2>
 	    <ul>
         <li>
             <a href="https://arxiv.org/abs/1902.01474">Optimized Compilation of Aggregated Instructions for Realistic Quantum Computers</a>
