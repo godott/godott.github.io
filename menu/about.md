@@ -31,7 +31,7 @@ I also contributed to <a href="https://github.com/epiqc/ScaffCC">ScaffCC</a>, an
 </p>
 
 <p>
-In summer 2017, I was the <a href="http://www.mcs.anl.gov/career-opportunities/wj-cody-associates">WJ Cody fellow</a> in Argonne National Laborotary, participating in PROVESA project, with Professor Paul Hovland. I used formal verification and model checking to faciliate the safe migration of large numerical softwares to new super computing architecture. 
+In summer 2017, I was the <a href="http://www.mcs.anl.gov/career-opportunities/wj-cody-associates">WJ Cody fellow</a> in Argonne National Laborotary, collaborating with Professor Paul Hovland in the PROVESA project. I used formal verification and model checking to faciliate the safe migration of large numerical softwares to new super computing architecture. 
 </p>
 
 
