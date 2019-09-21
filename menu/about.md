@@ -50,7 +50,7 @@ In summer 2017, I was the <a href="http://www.mcs.anl.gov/career-opportunities/w
 	    <h4>Papers (first author)</h4>
 	    <ul>
         <li>
-          <p> <a href="https://arxiv.org/abs/1902.01474">Optimized Compilation of Aggregated Instructions for Realistic Quantum Computers</a>
+            <a href="https://arxiv.org/abs/1902.01474">Optimized Compilation of Aggregated Instructions for Realistic Quantum Computers</a>
             Yunong Shi, Nelson Leung, Pranav Gokhale, Zane Rossi, David I. Schuster, Henry Hoffman, and Frederic T. Chong.
             <strong>International Symposium on Architectural Support for Programming Languages and Operating Systems</strong>. April 2019. Providence, RI.
   	    </li>
