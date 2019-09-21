@@ -23,11 +23,11 @@ I am a 6th year graduate student, in the department of Physics, at the Universit
 </p>
 
 <p>
-In the year 2018-2019, I spent one year at IBM Yorktown Heights as part of the <a href="https://qisenet.uchicago.edu">QISE-NET</a> triplet, collaborating with Andrew W. Cross, Christopher Chamberland and Ali Javadi-Abhari on quantum compilation, quantum verification in the Qiskit framework and on designing protocols for preparing bosonic qubit codes in the cavity.
+Starting from August 2018, I spent one year at IBM Yorktown Heights as part of the <a href="https://qisenet.uchicago.edu">QISE-NET</a> triplet, collaborating with Andrew W. Cross, Christopher Chamberland and Ali Javadi-Abhari on (1) quantum compilation optimization; (2) quantum verification (3) bosonic qubit encodings.
 </p>
 
 <p>
-I also contributed to <a href="https://github.com/epiqc/ScaffCC">ScaffCC</a>, a industrial level quantum compiler capable of compiling quantum circuits of millions of quantum gates. I designed and implemented the circuit optimization pass in ScaffCC and wrote the QAOA(Quantum Approximate Optimization Algorithm) library. I am designing various new backends aimed at near-term quantum architectures.
+I also contributed to <a href="https://github.com/epiqc/ScaffCC">ScaffCC</a>, an industrial level quantum compiler capable of compiling quantum circuits of millions of quantum gates. I designed and implemented the circuit optimization pass in ScaffCC and wrote the QAOA(Quantum Approximate Optimization Algorithm) library. I am designing various new backends aimed at near-term quantum architectures.
 </p>
 
 <p>
@@ -47,16 +47,16 @@ In summer 2017, I was the <a href="http://www.mcs.anl.gov/career-opportunities/w
             </a><br>
             Yunong Shi, X. Li, R. Tao, A. Javadi-Abhari, A. Cross, F. Chong, R. Gu
   	    </li>
-      </ul>
-	  </div>
+        </ul>
+</div>
 
+<div id="box_black">
 	    <h4>Papers (first author)</h4>
 	    <ul>
         <li>
           <p> <a href="https://arxiv.org/abs/1902.01474">Optimized Compilation of Aggregated Instructions for Realistic Quantum Computers</a>
-            </a>
             Yunong Shi, Nelson Leung, Pranav Gokhale, Zane Rossi, David I. Schuster, Henry Hoffman, and Frederic T. Chong.
             <strong>International Symposium on Architectural Support for Programming Languages and Operating Systems</strong>. April 2019. Providence, RI.
   	    </li>
       </ul>
-	  </div>
+</div>
