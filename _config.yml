@@ -19,7 +19,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Yunong Shi'
-description:	       'Everything about Quantum'
+description:	       'Small quantum fluctuation in the void...'
 author:              'Yunong Shi'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
