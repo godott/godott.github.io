@@ -23,7 +23,7 @@ I am a 6th year graduate student, in the department of Physics, at the Universit
 </p>
 
 <p>
-Starting from August 2018, I spent one year at IBM Yorktown Heights under the <a href="https://qisenet.uchicago.edu">QISE-NET</a> fellowship, collaborating with Andrew W. Cross, Christopher Chamberland and Ali Javadi-Abhari on (1) quantum compilation optimization; (2) quantum verification (3) bosonic qubit encodings.
+Starting from August 2018, I spent one year at IBM Yorktown Heights under the <a href="https://qisenet.uchicago.edu">QISE-NET</a> fellowship, contributing to the Qiskit framework, the most complete and widely used quantum software toolchain. I collaborated with Andrew W. Cross, Christopher Chamberland and Ali Javadi-Abhari on (1) quantum compilation optimization; (2) quantum verification (3) bosonic qubit encodings.
 </p>
 
 <p>
@@ -31,7 +31,7 @@ I also contributed to <a href="https://github.com/epiqc/ScaffCC">ScaffCC</a>, an
 </p>
 
 <p>
-In summer 2017, I was the <a href="http://www.mcs.anl.gov/career-opportunities/wj-cody-associates">WJ Cody fellow</a> in Argonne National Laborotary, collaborating with Professor Paul Hovland in the PROVESA project. I used formal verification and model checking to faciliate the safe migration of large numerical softwares to new super computing architecture. 
+In summer 2017, I was the <a href="http://www.mcs.anl.gov/career-opportunities/wj-cody-associates">WJ Cody fellow</a> in Argonne National Laborotary, collaborating with Paul Hovland in the PROVESA project. I used formal verification and model checking to faciliate the safe migration of large numerical softwares to new super computing architecture. 
 </p>
 
 

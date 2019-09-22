@@ -8,16 +8,8 @@ disqus:
 menu:
 - {name: 'About', path: 'menu', url: 'about.html'}
 - {name: 'Research', path: 'menu', url: 'research.html'}
-- {name: 'Writings', path: 'menu/writings_menu', url: 'index.html'}
+- {name: 'Blog', path: 'menu', url: 'blog.html'}
 - {name: 'Photos', path: 'menu', url: 'photos.html'}
-
-writings_menu:
-- {name: 'chronological', path: 'menu/writings_menu', url: 'index.html'}
-- {name: 'collections', path: 'menu/writings_menu', url: 'category.html'}
-
-my_categories:
-- {name: 'Quantum compilation', path: 'menu/writings_menu/category', url: 'qcompilation.html', image: 'qcompilation.jpg'}
-- {name: 'Circuit QED', path: 'menu/writings_menu/category', url: 'cqed.html', image: 'qc.jpg'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
