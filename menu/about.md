@@ -23,11 +23,11 @@ I am a 6th year graduate student, in the department of Physics, at the Universit
 </p>
 
 <p>
-Starting from August 2018, I spent one year at IBM Yorktown Heights under the <a href="https://qisenet.uchicago.edu">QISE-NET</a> fellowship, contributing to the Qiskit framework, the most complete and widely used quantum software toolchain. I collaborated with Andrew W. Cross, Christopher Chamberland and Ali Javadi-Abhari on (1) quantum compilation optimization; (2) quantum verification (3) bosonic qubit encodings.
+Starting from August 2018, I spent one year at IBM Yorktown Heights as the <a href="https://qisenet.uchicago.edu">QISE-NET</a> fellow, contributing to the Qiskit framework, the most complete and widely used quantum software toolchain. I collaborated with Andrew W. Cross, Christopher Chamberland and Ali Javadi-Abhari on (1) quantum compilation optimization; (2) quantum verification (3) bosonic qubit encodings.
 </p>
 
 <p>
-I also contributed to <a href="https://github.com/epiqc/ScaffCC">ScaffCC</a>, an industrial level quantum compiler capable of compiling quantum circuits of millions of quantum gates. I designed and implemented the circuit optimization pass in ScaffCC and wrote the QAOA (Quantum Approximate Optimization Algorithm) library. I designed a new compiler backend that directly compiles circuits to continuous control pulses.
+I also contributed to <a href="https://github.com/epiqc/ScaffCC">ScaffCC</a>, an industrial level quantum compiler developed in Chong lab I designed and implemented the circuit optimization pass in ScaffCC and wrote the QAOA (Quantum Approximate Optimization Algorithm) library. I designed a new compiler backend that directly compiles circuits to continuous control pulses, which improves quantum circuit latency by 10X on average.
 </p>
 
 <p>
