@@ -27,7 +27,7 @@ Starting from August 2018, I spent one year at IBM Yorktown Heights as the <a hr
 </p>
 
 <p>
-I also contributed to <a href="https://github.com/epiqc/ScaffCC">ScaffCC</a>, an industrial level quantum compiler developed in Chong lab I designed and implemented the circuit optimization pass in ScaffCC and wrote the QAOA (Quantum Approximate Optimization Algorithm) library. I designed a new compiler backend that directly compiles circuits to continuous control pulses, which improves quantum circuit latency by 10X on average.
+I also contributed to <a href="https://github.com/epiqc/ScaffCC">ScaffCC</a>, an industrial level quantum compiler developed in Chong lab. I designed and implemented the circuit optimization pass in ScaffCC and wrote the QAOA (Quantum Approximate Optimization Algorithm) library. I designed a new compiler backend that directly compiles circuits to continuous control pulses, which improves quantum circuit latency by 10X on average.
 </p>
 
 <p>
