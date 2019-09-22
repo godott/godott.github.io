@@ -23,7 +23,7 @@ I am a 6th year graduate student, in the department of Physics, at the Universit
 </p>
 
 <p>
-Starting from August 2018, I spent one year at IBM Yorktown Heights as part of the <a href="https://qisenet.uchicago.edu">QISE-NET</a> triplet, collaborating with Andrew W. Cross, Christopher Chamberland and Ali Javadi-Abhari on (1) quantum compilation optimization; (2) quantum verification (3) bosonic qubit encodings.
+Starting from August 2018, I spent one year at IBM Yorktown Heights under the <a href="https://qisenet.uchicago.edu">QISE-NET</a> fellowship, collaborating with Andrew W. Cross, Christopher Chamberland and Ali Javadi-Abhari on (1) quantum compilation optimization; (2) quantum verification (3) bosonic qubit encodings.
 </p>
 
 <p>
