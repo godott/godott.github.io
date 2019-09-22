@@ -58,7 +58,7 @@ In summer 2017, I was the <a href="http://www.mcs.anl.gov/career-opportunities/w
       <li>
            <a href="https://iopscience.iop.org/article/10.1088/1367-2630/ab3a62/pdf">Fault tolerant preparation of approximate GKP states </a><br>
            Yunong Shi, Christopher Chamberland, Andrew W. Cross.
-           <strong> New Journal of Physics, volume 21, issue 9, page 093007, 2019/9/4</strong>
+           <strong> New Journal of Physics</strong>. September 2019.
       </li>
       </ul>
 </div>
