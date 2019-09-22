@@ -40,7 +40,7 @@ In summer 2017, I was the <a href="http://www.mcs.anl.gov/career-opportunities/w
 <div id="box_black">
 	    <h3>Manuscripts</h3>
 	    <ul>
-            <li> <a href="./publications/1908.08963.pdf">
+            <li> <a href="../assets/publications/certiq.pdf">
               Contract-based Verification of a Realistic Quantum Compiler. </a> Yunong Shi, Xupeng Li, Runzhou Tao, Ali Javadi-Abhari, Andrew W. Cross, Fred T. Chong, Ronghui Gu
   	    </li>
         </ul>
@@ -50,9 +50,27 @@ In summer 2017, I was the <a href="http://www.mcs.anl.gov/career-opportunities/w
 	    <h3>Papers (first author)</h3>
 	    <ul>
         <li>
-            <a href="https://arxiv.org/abs/1902.01474">Optimized Compilation of Aggregated Instructions for Realistic Quantum Computers</a><br>
+            <a href="https://arxiv.org/pdf/1902.01474.pdf">Optimized Compilation of Aggregated Instructions for Realistic Quantum Computers</a><br>
             Yunong Shi, Nelson Leung, Pranav Gokhale, Zane Rossi, David I. Schuster, Henry Hoffman, and Frederic T. Chong.
             <strong>International Symposium on Architectural Support for Programming Languages and Operating Systems (ASPLOS)</strong>. April 2019. Providence, RI.
   	    </li>
       </ul>
+
+      <li>
+           <a href="https://iopscience.iop.org/article/10.1088/1367-2630/ab3a62/pdf">Fault tolerant preparation of approximate GKP states </a><br>
+           Yunong Shi, Christopher Chamberland, Andrew W. Cross.
+           <strong> New Journal of Physics, volume 21, issue 9, page 093007, 2019/9/4</strong>
+      </li>
+</div>
+
+
+<div id="box_black">
+	    <h3>Other papers</h3>
+        <ul>
+        <li>
+           <a href="https://arxiv.org/pdf/1909.07522.pdf"> Partial Compilation of Variational Algorithms for Noisy Intermediate-Scale Quantum Machines </a><br>
+           Pranav Gokhale, Yongshan Ding, Thomas Propson, Christopher Winkler, Nelson Leung, Yunong Shi, David I Schuster, Henry Hoffmann, Frederic T Chong
+        <strong> International Symposium on Microarchitecture (MICRO). </strong> October, 2019. Columbus, OH.
+        </li>
+        </ul>
 </div>
