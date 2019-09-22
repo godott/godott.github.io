@@ -54,13 +54,13 @@ In summer 2017, I was the <a href="http://www.mcs.anl.gov/career-opportunities/w
             Yunong Shi, Nelson Leung, Pranav Gokhale, Zane Rossi, David I. Schuster, Henry Hoffman, and Frederic T. Chong.
             <strong>International Symposium on Architectural Support for Programming Languages and Operating Systems (ASPLOS)</strong>. April 2019. Providence, RI.
   	    </li>
-      </ul>
 
       <li>
            <a href="https://iopscience.iop.org/article/10.1088/1367-2630/ab3a62/pdf">Fault tolerant preparation of approximate GKP states </a><br>
            Yunong Shi, Christopher Chamberland, Andrew W. Cross.
            <strong> New Journal of Physics, volume 21, issue 9, page 093007, 2019/9/4</strong>
       </li>
+      </ul>
 </div>
 
 
