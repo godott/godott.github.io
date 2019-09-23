@@ -3,17 +3,27 @@ layout: default
 title: Research
 ---
 
-[qcompilation]:../assets/img/qcompilation.jpg
 
-Quantum Compilation
+Pulse-level Quantum Compilation
 -------------------
 <p id="secondarytitle"> Breaking the ISA abstraction </p> 
-We proposed a new quantum compilation scheme for near-term quantum architectures utilizing quantum optimal control algorithms. By breaking down intermediate-scale quantum circuits into small subcircuits with size quantum optimal control algorithms can scale up to, we generate optimized pulse sequences for each subcircuits. Using reinforcement learning techniques, we ensure the parallelism of the circuit is protected and commutative gates are scheduled in a way that maximize the speedup in each subcircuit. This compilation methodology essentially break the ISA abstraction of 1-qubit and 2-qubit gates. In this way, pulse time has shown to be improved by a considerable amount in most cases.
+We proposed a novel quantum compilation scheme that improves quantum circuit latency by 5X on average. Traditional compilation method first compiles quantum algorithms into pre-defined quantum gates (quantum ISA), then load corresponding control pulses in the hardware. Our approach form a new set of aggregated instructions for each circuit and generate customized control pulses with a quantum optimal control algorithm called GRAPE (GRadient-Ascent Pulse Engineering). This compilation
+scheme is the core component of the NSF Expedition in Computing [<a href="epiqc.uchicago.edu">EPiQC</a>] and considered to "provide speed boost to quantum computers" by <a href="https://phys.org/news/2019-04-boost-quantum.html">phys.org</a>. 
 
-![qcompilation]
+<img src="../asset/img/QAOA_CriticalPath.png", width="200">
+<img src="../asset/img/qaoa_demo.png", width="200">
+<img src="../asset/img/QAOA_Aggregated.png", width="200">
+<img src="../asset/img/qaoa_demo1.png", width="200">
 
 * * *
 
-Quantum error correction
+Fault-tolerant Gottesman-Kitaev-Preskill code prepartion
 ------------------------
-Various error correction codes has been 
+<p id="secondarytitle"> Breaking the qubit abstraction </p> 
+
+
+***
+
+CertiQ verification framework
+-------------------------
+<p id="secondarytitle"> Reliable quantum software</p> 
