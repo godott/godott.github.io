@@ -68,8 +68,7 @@ In summer 2017, I was the <a href="http://www.mcs.anl.gov/career-opportunities/w
 	    <h3>Other papers</h3>
         <ul>
         <li>
-           <a href="https://arxiv.org/pdf/1909.07522.pdf"> Partial Compilation of Variational Algorithms for Noisy Intermediate-Scale Quantum Machines </a><br>
-           Pranav Gokhale, Yongshan Ding, Thomas Propson, Christopher Winkler, Nelson Leung, Yunong Shi, David I Schuster, Henry Hoffmann, Frederic T Chong
+           <a href="https://arxiv.org/pdf/1909.07522.pdf"> Partial Compilation of Variational Algorithms for Noisy Intermediate-Scale Quantum Machines </a><br> Pranav Gokhale, Yongshan Ding, Thomas Propson, Christopher Winkler, Nelson Leung, Yunong Shi, David I Schuster, Henry Hoffmann, Frederic T Chong
         <strong> International Symposium on Microarchitecture (MICRO). </strong> October, 2019. Columbus, OH.
         </li>
         </ul>
