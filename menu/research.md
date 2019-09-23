@@ -32,8 +32,7 @@ Bosonic Qubit Architecture
 ------------------------
 <p id="secondarytitle"> Breaking the qubit abstraction </p> 
 Bosonic encodings such as the Gottesman-Kitaev-Preskill (GKP) code are qubit architectures that provide error information for upper-level software to monitor its internal correctness, thus are promising candidates for near-term quantum information processing. The GKP code breaks the fundamental limit set by the Heisenberg uncertainty principle. However, the GKP code is highly non-classical and hard to make. We gave fault tolerance definitions to the preparation of GKP states and designed protocols to fault-tolerantly preprare it.
-<img src="../assets/img/gkp_0.png"  width="350" text-align="center">
-
+<img src="../assets/img/gkp_0.png"  width="350" align="middle">
 <div>
         <h3>Related papers </h3>
 	    <ul>
