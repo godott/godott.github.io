@@ -19,15 +19,11 @@ scheme is a core component of the NSF Expedition [<a href="epiqc.uchicago.edu">E
         <h3>Related papers </h3>
 	    <ul>
         <li>
-            <a href="https://arxiv.org/pdf/1902.01474.pdf">Optimized Compilation of Aggregated Instructions for Realistic Quantum Computers</a><br>
-            Yunong Shi, Nelson Leung, Pranav Gokhale, Zane Rossi, David I. Schuster, Henry Hoffman, and Frederic T. Chong.
-            <strong>International Symposium on Architectural Support for Programming Languages and Operating Systems (ASPLOS)</strong>. April 2019. Providence, RI.
+            <a href="https://arxiv.org/pdf/1902.01474.pdf">Optimized Compilation of Aggregated Instructions for Realistic Quantum Computers</a> (ASPLOS'19)
   	    </li>
 
       <li>
-           <a href="https://arxiv.org/pdf/1909.07522.pdf"> Partial Compilation of Variational Algorithms for Noisy Intermediate-Scale Quantum Machines </a><br> Pranav Gokhale, Yongshan Ding, Thomas Propson, Christopher Winkler, Nelson Leung, Yunong Shi, David I Schuster, Henry Hoffmann, Frederic T Chong
-        <strong> International Symposium on Microarchitecture (MICRO). </strong> October, 2019. Columbus, OH.
-      </li>
+           <a href="https://arxiv.org/pdf/1909.07522.pdf"> Partial Compilation of Variational Algorithms for Noisy Intermediate-Scale Quantum Machines </a>(MICRO'19)      </li>
       </ul>
 </div>
 
