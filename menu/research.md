@@ -56,7 +56,7 @@ Qiskit Terra is the most complete and widely used quantum compiler now. It's the
         <h3>Related papers </h3>
 	    <ul>
             <li> <a href="https://arxiv.org/abs/1908.08963.pdf">
-              Contract-based Verification of a Realistic Quantum Compiler. </a> 
+              Contract-based Verification of a Realistic Quantum Compiler. </a> (submitted to ASPLOS'20)
             </li>
         </ul>
 </div>
