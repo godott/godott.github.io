@@ -23,7 +23,7 @@ I am a 6th year graduate student, in the department of Physics, at the Universit
 </p>
 
 <p>
-Starting from August 2018, I spent one year at IBM Yorktown Heights as the <a href="https://qisenet.uchicago.edu">QISE-NET</a> fellow, contributing to the Qiskit framework, the most complete and widely used quantum software toolchain. I collaborated with Andrew W. Cross, Christopher Chamberland and Ali Javadi-Abhari on (1) quantum compilation optimization; (2) quantum verification (3) bosonic qubit encodings.
+In year 2018-2019, I was the <a href="https://qisenet.uchicago.edu">QISE-NET fellow</a> at IBM Yorktown Heights. I collaborated with Andrew W. Cross, Christopher Chamberland in the theory group on bosonic qubit architectures and Ali Javadi-Abhari in the Qiskit team on quantum compilation optimization and quantum verification.
 </p>
 
 <p>
