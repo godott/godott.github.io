@@ -55,3 +55,14 @@ Bosonic encodings such as the Gottesman-Kitaev-Preskill (GKP) code are qubit arc
 CertiQ verification framework
 -------------------------
 <p id="secondarytitle"> Reliable quantum software</p> 
+
+Qiskit Terra is the most complete and widely used quantum compiler now. It supports the cloud-based IBMQ service with 10K+ users. With the increasing community contribution, it's crucial to guarantee the code quality and automate the code review process. We implemented the CertiQ, a mostly-automated verification framework. As far as we know, CertiQ is the first verification framework for a realistic quantum compiler. Leveraing SMT reasoning and contract based design, CertiQ revealed several critical bugs in Qiskit Terra, some of which are specific to quantum software. We believe that the method developed in CertiQ pave the way to a fully verified quantum toolchain.
+<img src="../assets/img/certiq_flow.png"  width="280">
+<div>
+        <h3>Related papers </h3>
+	    <ul>
+            <li> <a href="../assets/publications/certiq.pdf">
+              Contract-based Verification of a Realistic Quantum Compiler. </a> Yunong Shi, Xupeng Li, Runzhou Tao, Ali Javadi-Abhari, Andrew W. Cross, Fred T. Chong, Ronghui Gu
+  	    </li>
+        </ul>
+</div>
