@@ -14,6 +14,7 @@ li {
 </style>
 <p>
 <img src="../assets/img/profile.JPG" alt="profile">
+[<a href="../assets/doc/cv.pdf">CV</a>]     [<a href="../assets/doc/Research_statement.pdf">Research statement</a>] <br>
 I am a 6th year graduate student, in the department of Physics, at the University of Chicago. I am in the quantum architecture group, under the supervision of Professor <a href="http://people.cs.uchicago.edu/~ftchong/"> Fred Chong</a>. My interests lie in:
 <ul>
   <li>Quantum compilation optimization for near-term quantum devices. </li>
