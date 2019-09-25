@@ -7,5 +7,3 @@ categories: qcompilation
 ---
 
 hihi
-
-
