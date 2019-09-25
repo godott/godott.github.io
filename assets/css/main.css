@@ -67,6 +67,12 @@ img {
   border-radius: 5px;
 }
 
+.centerpic{
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+
 blockquote {
   margin: 10px 20px 10px;
   padding: 0px 15px;
