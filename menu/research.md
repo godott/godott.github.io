@@ -35,6 +35,8 @@ Bosonic encodings such as the Gottesman-Kitaev-Preskill (GKP) code are qubit arc
 <div align="center">
 <img src="../assets/img/gkp.gif"  width="280">
 </div>
+
+For a gentle introduction to this beautiful qubit architecture, please take a look at <a href="https://godott.github.io/gkp.html">this blog</a>.
 <div>
         <h3>Related papers </h3>
 	    <ul>
