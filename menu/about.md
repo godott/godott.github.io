@@ -41,14 +41,12 @@ In summer 2017, I was the <a href="http://www.mcs.anl.gov/career-opportunities/w
 <div id="box_black">
 	    <h3>Manuscripts</h3>
 	    <ul>
-            <li> <a href="https://arxiv.org/abs/1908.08963.pdf">
-              Contract-based Verification of a Realistic Quantum Compiler. </a> Yunong Shi, Xupeng Li, Runzhou Tao, Ali Javadi-Abhari, Andrew W. Cross, Fred T. Chong, Ronghui Gu
-  	    </li>
+
         </ul>
 </div>
 
 <div id="box_black">
-	    <h3>Papers (first author)</h3>
+	    <h3>Papers and munuscripts</h3>
 	    <ul>
         <li>
             <a href="https://arxiv.org/pdf/1902.01474.pdf">Optimized Compilation of Aggregated Instructions for Realistic Quantum Computers</a><br>
@@ -61,16 +59,21 @@ In summer 2017, I was the <a href="http://www.mcs.anl.gov/career-opportunities/w
            Yunong Shi, Christopher Chamberland, Andrew W. Cross.
            <strong> New Journal of Physics</strong>. September 2019.
       </li>
-      </ul>
-</div>
 
-
-<div id="box_black">
-	    <h3>Other papers</h3>
-        <ul>
+            <li> <a href="https://arxiv.org/abs/1908.08963.pdf">
+              Contract-based Verification of a Realistic Quantum Compiler. </a><br>Yunong Shi, Xupeng Li, Runzhou Tao, Ali Javadi-Abhari, Andrew W. Cross, Fred T. Chong, Ronghui Gu
+  	    </li>
+            <li> <a href="https://arxiv.org/">
+ Resource-efficient quantum computing by breaking abstractions. </a><br> Yunong Shi, Pranav Gokhale, Prakash Murali, Jonathan M. Baker, Casey Duckering, Yongshan Ding, Natalie C. Brown, Christopher Chamberland, Ali Javadi Abhari, Andrew W. Cross, David I. Schuster, Kenneth R. Brown, Margaret R. Martonosi, and Frederic T. Chong. PIEEE Special Issue, Jan 2020.
+        </li>
         <li>
            <a href="https://arxiv.org/pdf/1909.07522.pdf"> Partial Compilation of Variational Algorithms for Noisy Intermediate-Scale Quantum Machines </a><br> Pranav Gokhale, Yongshan Ding, Thomas Propson, Christopher Winkler, Nelson Leung, Yunong Shi, David I Schuster, Henry Hoffmann, Frederic T Chong
         <strong> International Symposium on Microarchitecture (MICRO). </strong> October, 2019. Columbus, OH.
         </li>
+            <li> <a href="https://arxiv.org/pdf/2001.05983.pdf"> Term Grouping and Travelling Salesperson for Digital Quantum Simulation. </a> <br> Kaiwen Gui, Teague Tomesh, Pranav Gokhale, Yunong Shi, Frederic T Chong, Margaret Martonosi, Martin Suchara. (In submission)
+  	    </li>
+
+            <li> <a href="https://sc19.supercomputing.org/proceedings/tech_poster/poster_files/rpost216s2-file3.pdf">  ILP-Based Scheduling for Linear-Tape Model Trapped-Ion Quantum Computers</a> <br>  Xin-Chuan Wu, Yongshan Ding, Yunong Shi, Yuri Alexeev, Hal Finkel, Kibaek Kim, Frederic T Chong. (In submission)
+  	    </li>
         </ul>
 </div>
