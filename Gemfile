@@ -8,16 +8,16 @@ group :jekyll_plugins do
     gem 'jekyll-imagemagick'
     gem 'jekyll-minifier'
     gem 'jekyll-paginate-v2'
-    gem 'jekyll-scholar'
+    gem 'jekyll-scholar', '6.8.0'
     gem 'jekyll-sitemap'
     gem 'jekyll-target-blank'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-    gem 'mini_racer', '0.6.3'
+    gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
     gem "kramdown-parser-gfm"
-    gem "bibtex-ruby", ">= 5.1.0"
+    gem 'bibtex-ruby'
 end
 group :other_plugins do
     gem 'httparty'
