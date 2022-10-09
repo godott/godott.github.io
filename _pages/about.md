@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.png
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Quantum Scientist, <a href='https://aws.amazon.com/braket/'>Amazon Braket</a> <br>
+synisnot [at] gmail.com, shiyunon [at] amazon.com <br>
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=dnDj1EIAAAAJ) | [DBLP](https://dblp.org/pid/236/5902.html) | [Resume](https://google.com) <br>
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a quantum scientist at Amazon Braket, working on compilation and low-level device control. Previously, I obtained my Ph.D degree from [the University of Chicago](https://www.uchicago.edu/) and my advisor was [Frederic T. Chong](https://people.cs.uchicago.edu/~ftchong/). Before that, I got my bachelor degree from [University of Illinois at Urbana Champaign](https://illinois.edu/). I also stayed at IBM for 1 year as the [NSF QISE-NET fellow](https://qisenet.uchicago.edu/), working with [Andrew
+Cross](https://scholar.google.com/citations?user=yK_ZfbwAAAAJ&hl=en) and [Ali
+Javadi-Abhari](https://scholar.google.com/citations?user=-I6kav0AAAAJ&hl=en), and a summer at [Argonne National Lab](https://www.anl.gov/) as the [W.J.Cody fellow](https://www.anl.gov/mcs/wj-cody-associates), working with [Paul Hovland](https://www.anl.gov/profile/paul-hovland). I contributed to several quantum compilers, including [Giallar](https://dl.acm.org/doi/abs/10.1145/3519939.3523431), [Qiskit](https://github.com/Qiskit/qiskit-terra) and [ScaffCC](https://github.com/epiqc/ScaffCC).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests lie in quantum compilation, quantum architecture design and formal verification. The main theme of my research is breaking abstraction layers in the current quantum computing stack and re-establish new abstraction layers, examples including breaking the quantum gate abstraction by pulse-level compilation, and breaking the qubit abstraction by using bosonic qubit encodings. For a summary, see our [PIEEE review article](https://ieeexplore.ieee.org/ielaam/5/9143211/9116963-aam.pdf) with collaborators from UChicago, Princeton, Duke, IBM and AWS.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
