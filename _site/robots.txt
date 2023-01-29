@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://yunongshi.me/sitemap.xml
