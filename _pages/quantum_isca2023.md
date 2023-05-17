@@ -32,6 +32,6 @@ The crash course will be held on June 18th, 2023. Please note that the schedule 
 | 1-2:30pm   | Compilation and error mitigation in NISQ-era (*Circuit optimizations, noise-aware circuit mapping, and error mitigation*)
 | **Session 4**  | **Poulami Das**                                             | 
 | 2:45-4:15pm   | Quantum Error Correction (QEC) basics and challenges (*Basics of QEC, 3-qubit code, Steane code, surface code*)
-| **Session 3**  | **Moinuddin Qureshi, Yunong Shi, Poulami Das**                                             | 
+| **Session 5**  | **Moinuddin Qureshi, Yunong Shi, Poulami Das**                                             | 
 | 4:15-4:45pm   | Open discussion about on-going research for both NISQ and Fault-Tolerant systems
 
