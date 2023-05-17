@@ -27,13 +27,11 @@ The crash course will be held on June 18th, 2023. Please note that the schedule 
 | **Session 1**  | **Moinuddin Qureshi**                                             | 
 | 8-9:40am   | Basics of quantum computation (*superposition, entanglement, quantum operations, quantum circuits*)
 | **Session 2**  | **Yunong Shi**                                             | 
-| 10-11:40am   | Hands-on section on quantum basics and quantum algorithms (*Gates, circuits, Bernstein Vazirani algorithm, Grover's search*)
-| 10-10:45am | Impact of noise (*Device error-rates on existing genrations of quantum computers, types of errors*)
-| 11-11:45am | Quantum compilation 
+| 10-11:40am   | Hands-on section on quantum basics and quantum algorithms (*Quantum gates and circuits, Bernstein Vazirani algorithm, Grover's search*)
 | **Session 3**  | **Yunong Shi**                                             | 
-| 1-2:30pm   | Compilation and error mitigation in NISQ-era (*Circuit optimizations, qubit mapping, routing and gate decomposition*)
+| 1-2:30pm   | Compilation and error mitigation in NISQ-era (*Circuit optimizations, noise-aware circuit mapping, and error mitigation*)
 | **Session 4**  | **Poulami Das**                                             | 
-| 2:45-4:15pm   | Quantum Error Correction (QEC) basics and challenges (*Surface codes, recent demonstrations of QEC codes, classical control and decoding*)
+| 2:45-4:15pm   | Quantum Error Correction (QEC) basics and challenges (*Basics of QEC, 3-qubit code, Steane code, surface code*)
 | **Session 3**  | **Moinuddin Qureshi, Yunong Shi, Poulami Das**                                             | 
 | 4:15-4:45pm   | Open discussion about on-going research for both NISQ and Fault-Tolerant systems
 
