@@ -25,15 +25,15 @@ computing.  Yunong Shi is a senior scientist at Amazon Braket, leading the quant
 The crash course will be held on June 18th, 2023. Please note that the schedule is subject to change, and we'll provide more details as they become available.
 
 | **Session 1**  | **Moinuddin Qureshi**                                             | 
-| 8-8:45am   | Basics of quantum computation (*superposition, entanglement, quantum operations, quantum circuits*)
-| 9-9:45am   | Quantum algorithms (*Bernstein Vazirani algorithm, Grover's search, estimation of computational efficiency*)
-| **Session 2**  | **Yunong Shi and Poulami Das**                                             | 
+| 8-9:40am   | Basics of quantum computation (*superposition, entanglement, quantum operations, quantum circuits*)
+| **Session 2**  | **Yunong Shi**                                             | 
+| 10-11:40am   | Hands-on section on quantum basics and quantum algorithms (*Gates, circuits, Bernstein Vazirani algorithm, Grover's search*)
 | 10-10:45am | Impact of noise (*Device error-rates on existing genrations of quantum computers, types of errors*)
-| 11-11:45am | Quantum compilation (*Circuit optimizations, qubit mapping, routing and gate decomposition*)
+| 11-11:45am | Quantum compilation 
 | **Session 3**  | **Yunong Shi**                                             | 
-| 1-1:45pm   | Software frameworks for error mitigation (*Post-processing techniques, measurement error-mitigation*)
-| 2-2:45pm   | Advantaced topics in NISQ-era (*Hybrid quantum algorithms, circuit-cutting, pulse control*)
+| 1-2:30pm   | Compilation and error mitigation in NISQ-era (*Circuit optimizations, qubit mapping, routing and gate decomposition*)
 | **Session 4**  | **Poulami Das**                                             | 
-| 1-1:45pm   | Quantum Error Correction (QEC) basics and challenges (*Surface codes, recent demonstrations of QEC codes, classical control and decoding*)
-| 2-2:45pm   | Open discussion about on-going research for both NISQ and Fault-Tolerant systems
+| 2:45-4:15pm   | Quantum Error Correction (QEC) basics and challenges (*Surface codes, recent demonstrations of QEC codes, classical control and decoding*)
+| **Session 3**  | **Moinuddin Qureshi, Yunong Shi, Poulami Das**                                             | 
+| 4:15-4:45pm   | Open discussion about on-going research for both NISQ and Fault-Tolerant systems
 
