@@ -5,7 +5,7 @@ title: ISCA 2023 A  Crash Course on Quantum Computing
 nav: true
 nav_order: 1
 ---
-Discover the fascinating world of quantum computing tailored for computer architects in our one-day crash course on June 18th, 2023 at [the ISCA conference](https://iscaconf.org/isca2023/). 
+Discover the fascinating world of quantum computing tailored for computer architects in our one-day crash course on June 17th, 2023 at [the ISCA conference](https://iscaconf.org/isca2023/). 
 The goal of this crash course is to provide researchers in CS and ECE with the fundamental background 
 on quantum computing and equip them with the skills to write code and optimize quantum programs
 on real quantum computers. This tutorial assumes no prior knowledge about quantum computing and by
@@ -22,7 +22,7 @@ computing.  Yunong Shi is a senior scientist at Amazon Braket, leading the quant
 
 # Tentative Course Schedule
 
-The crash course will be held on June 18th, 2023. Please note that the schedule is subject to change, and we'll provide more details as they become available.
+The crash course will be held on June 17th, 2023. Please note that the schedule is subject to change, and we'll provide more details as they become available.
 
 | **Session 1**  | **Moinuddin Qureshi**                                             | 
 | 8-9:40am   | Basics of quantum computation (*superposition, entanglement, quantum operations, quantum circuits*)
