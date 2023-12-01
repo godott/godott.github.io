@@ -19,7 +19,7 @@ icon: psi.ico # the emoji used as the favicon (alternatively, provide image name
 
 url: https://yunongshi.me # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -66,7 +66,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: godott # your GitHub user name
 gitlab_username: godott # your GitLab user name
 twitter_username: synisnot # your Twitter handle
 linkedin_username: yunong-shi-b0836a50 # your LinkedIn user name
@@ -132,7 +132,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 collections:
   news:
-    defaults:
+      defaults:
       layout: post
     output: true
     permalink: /news/:path/
@@ -141,7 +141,12 @@ collections:
 #    permalink: /projects/:path/
 
 news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-news_limit: # leave blank to include all the news in the `_news` folder
+news_limit: 4 # leave blank to include all the news in the `_news` folder
+
+announcements:
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -247,6 +252,12 @@ scholar:
   details_link: Details
 
   query: "@*"
+  group_by: year
+  group_order: descending
+
+badges: # Display different badges for your publications
+  altmetric_badge: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
+  dimensions_badge: true # Dimensions badge (https://badge.dimensions.ai/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview]
