@@ -1,14 +1,8 @@
           <div class="news">
-            {% if site.news != blank -%}
             {%- assign news_size = site.news | size -%}
-            <div class="table-responsive" style="max-height: 120vw">
               <table class="table table-sm table-borderless">
               {%- assign news = site.news | reverse -%}
-              {% if include.limit and site.announcements.limit %}
-              {% assign news_limit = site.announcements.limit %}
-              {% else %}
               {% assign news_limit = news_size %}
-              {% endif %}
               {% for item in news limit: news_limit %}
                 <tr>
                   <td scope="row" style="width: 13%">{{ item.date | date: "%b %-d, %Y" }}</td>
@@ -22,8 +16,4 @@
                 </tr>
               {%- endfor %}
               </table>
-            </div>
-          {%- else -%}
-            <p>No news so far...</p>
-          {%- endif %}
           </div>
