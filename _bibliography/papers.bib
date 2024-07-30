@@ -1,6 +1,50 @@
 ---
 ---
 
+
+@article{alpha-router,
+      title={AlphaRouter: Quantum Circuit Routing with Reinforcement Learning and Tree Search},
+      author={Wei Tang, Yiheng Duan, Yaroslav Kharkov, Rasool Fakoor, Eric Kessler and Yunong Shi},
+      year={2024},
+      abbr={QCE},
+      publisher={Institute of Electrical and Electronics Engineers}
+}
+
+@article{sat-mapping,
+      title={Quantum Circuit Mapping Based on Incremental and Parallel SAT Solving},
+      author={Jiong Yang, Yaroslav A. Kharkov, Yunong Shi, Marijn Heule and Bruno Dutertre},
+      year={2024},
+      abbr={SAT},
+      abstract={Quantum Computing (QC) is a new computational paradigm that promises significant speedup over classical computing in various domains. However, near-term QC faces numerous challenges, including limited qubit connectivity and noisy quantum operations. To address the qubit connectivity constraint, circuit mapping is required for executing quantum circuits on quantum computers. This process involves performing initial qubit placement and using the quantum SWAP operations to relocate non-adjacent qubits for nearest-neighbor interaction. Reducing the SWAP count in circuit mapping is essential for improving the success rate of quantum circuit execution as SWAPs are costly and error-prone. In this work, we introduce a novel circuit mapping method by combining incremental and parallel solving for Boolean Satisfiability (SAT). We present an innovative SAT encoding for circuit mapping problems, which significantly improves solver-based mapping methods and provides a smooth trade-off between compilation quality and compilation time. Through comprehensive benchmarking of 78 instances covering 3 quantum algorithms on 2 distinct quantum computer topologies, we demonstrate that our method is 26x faster than state-of-the-art solver-based methods, reducing the compilation time from hours to minutes for important quantum applications. Our method also surpasses the existing heuristics algorithm by 26% in SWAP count.}
+}
+
+@article{surf-deformer,
+      title={Surf-deformer: Mitigating Dynamic Defects on Surface Code via Adaptive Deformation}, 
+      author={Keyi Yin and Xiang Fang and Yunong Shi and Travis Humble and Ang Li and Yufei Ding},
+      year={2024},
+      abbr={MICRO},
+      eprint={2405.06941},
+      publisher = {Association for Computing Machinery},
+      archivePrefix={arXiv},
+      primaryClass={quant-ph},
+      abstract={In this paper, we introduce Surf-Deformer, a code deformation framework that seamlessly integrates adaptive defect mitigation functionality into the current surface code workflow. It strategically crafts several basic deformation instructions based on fundamental gauge transformations, which can be combined to explore a larger design space than previous methods. This enables more optimized deformation processes tailored to specific defect situations, restoring the QEC capability of deformed codes more efficiently with minimal qubit resources. Additionally, we design an adaptive code layout that accommodates our defect mitigation strategy while ensuring efficient execution of logical operations. Our evaluation shows that Surf-Deformer outperforms previous methods by significantly reducing the end-to-end failure rate of various quantum programs by 35× ∼ 70×, while requiring only ∼ 50\% of the qubit resources compared to the previous method to achieve the same level of failure rate. Ablation studies show that Surf-Deformer surpasses previous defect removal methods in preserving QEC capability and facilitates surface code communication by achieving nearly optimal throughput.},
+      url={https://arxiv.org/abs/2405.06941}, 
+      pdf={https://arxiv.org/pdf/2405.06941}
+}
+
+@article{bosehedral,
+      title={Bosehedral: Compiler Optimization for Bosonic Quantum Computing}, 
+      bibtex_show={true},
+      abbr={ISCA},
+      author={Junyu Zhou and Yuhao Liu and Yunong Shi and Ali Javadi-Abhari and Gushu Li},
+      year={2024},
+      publisher = {Association for Computing Machinery},
+      url={https://arxiv.org/abs/2402.02279}, 
+      address={Buenos Aires, Argentina},
+      abstract={Bosonic quantum computing, based on the infinitedimensional qumodes, has shown promise for various practical applications that are classically hard. However, the lack of compiler optimizations has hindered its full potential. This paper introduces Bosehedral, an efficient compiler optimization framework for (Gaussian) Boson sampling on Bosonic quantum hardware. Bosehedral overcomes the challenge of handling infinitedimensional qumode gate matrices by performing all its program analysis and optimizations at a higher algorithmic level, using a compact unitary matrix representation. It optimizes qumode gate decomposition and logical-to-physical qumode mapping, and introduces a tunable probabilistic gate dropout method. Overall, Bosehedral significantly improves the performance by accurately approximating the original program with much fewer gates. Our evaluation shows that Bosehedral can largely reduce the program size but still maintain a high approximation fidelity, which can translate to significant end-to-end application performance improvement.},
+      pdf={https://assets.amazon.science/d0/86/415bb69a4cdcab4caab505a7db9d/bosehedral-compiler-optimization-for-bosonic-quantum-computing.pdf}
+}
+
 @article{fermihedral,
   abbr={ASPLOS},
   bibtex_show={true},
