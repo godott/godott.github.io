@@ -12,9 +12,9 @@ latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Senior Quantum Scientist, AWS Center for Quantum Computing <br />
-Visiting Assistant Professor, University of Michigan <br />
-synisnot [at] gmail.com, shiyunon [at] amazon.com  <br />
+Senior Quantum Scientist, <span style="color:#666;">AWS Center for Quantum Computing</span> <br />
+Visiting Assistant Professor, <span style="color:#666;">University of Michigan</span> <br />
+<span style="color:#666;">synisnot [at] gmail.com, shiyunon [at] amazon.com</span>  <br />
 <a href='https://scholar.google.com/citations?hl=en&amp;user=dnDj1EIAAAAJ'>Google Scholar</a> |  <a href='https://dblp.org/pid/236/5902.html'>DBLP</a> | <a href='/assets/pdf/Yunong_Shi_CV.pdf'>CV</a> 
 
 I am a senior quantum scientist at AWS Center for Quantum Computing, where my work bridges Quantum Error Correction theory and the control system --- what I think of as the Quantum Operating System. I am also holding a visiting assistant professor position at the University of Michigan. Previously, I was at <a href='https://aws.amazon.com/braket/'>Amazon Braket</a>, the quantum cloud division at AWS, where I helped shape the software strategy. I helped introduce <a href='https://openqasm.com'>OpenQASM3</a> as the standard language specification, design and build the compilation stack to support it. One example of the tools in the stack is <a href='https://github.com/amazon-braket/autoqasm'>AutoQASM</a>, of which I conceived and built the first prototype. I also lead a few cross-organization research initiatives, including <a href='https://www.cs.cmu.edu/~mheule/publications/SATmap.pdf'>high-performance solver based</a> and <a href='https://arxiv.org/pdf/2410.05115v1'>ML-based</a> quantum circuit mappers. I obtained my Ph.D degree from <a href="https://www.uchicago.edu/" target="_blank" rel="noopener noreferrer">the University of Chicago</a> and my advisor was <a href="https://people.cs.uchicago.edu/~ftchong/" target="_blank" rel="noopener noreferrer">Frederic T. Chong</a>. 
