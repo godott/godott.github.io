@@ -12,8 +12,8 @@ latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Senior Quantum Scientist, <span style="color:#666;">AWS Center for Quantum Computing</span> <br />
-Visiting Assistant Professor, <span style="color:#666;">University of Michigan</span> <br />
+<strong>Senior Quantum Scientist</strong>, <em><span style="color:#444;">AWS Center for Quantum Computing</span></em> <br />
+<strong>Visiting Assistant Professor</strong>, <em><span style="color:#444;">University of Michigan</span></em> <br />
 <span style="color:#666;">synisnot [at] gmail.com, shiyunon [at] amazon.com</span>  <br />
 <a href='https://scholar.google.com/citations?hl=en&amp;user=dnDj1EIAAAAJ'>Google Scholar</a> |  <a href='https://dblp.org/pid/236/5902.html'>DBLP</a> | <a href='/assets/pdf/Yunong_Shi_CV.pdf'>CV</a> 
 
