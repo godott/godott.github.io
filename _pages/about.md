@@ -12,12 +12,12 @@ latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-<div style="margin-top:6px; line-height:1.45; font-size:18px;">
+<div style="margin-top:6px; line-height:1.45; font-size:16px;">
 
-  <span style="font-weight:600;">Senior Quantum Scientist</span>
+  <span style="font-weight:400;">Senior Quantum Scientist</span>
   <span style="color:#555;">· AWS Center for Quantum Computing</span><br/>
 
-  <span style="font-weight:600;">Visiting Assistant Professor</span>
+  <span style="font-weight:400;">Visiting Assistant Professor</span>
   <span style="color:#555;">· University of Michigan</span><br/>
 
   <span style="color:#666; font-size:16px;">
